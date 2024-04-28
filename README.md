@@ -1,5 +1,7 @@
 ## About The Project
 
+![alt text](image.png)
+
 A video game catalog application allowing users to browse video games, categorize them by genre or platform, and access specific game details.
 
 ### Built With
