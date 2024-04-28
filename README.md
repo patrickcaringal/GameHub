@@ -1,7 +1,5 @@
 ## About The Project
 
-![alt text](image.png)
-
 A video game catalog application allowing users to browse video games, categorize them by genre or platform, and access specific game details.
 
 ### Built With
@@ -19,6 +17,12 @@ A video game catalog application allowing users to browse video games, categoriz
 - Utilize filters to sort games by genre or platform.
 - Search for specific video games.
 - Toggle between dark and light modes.
+
+## Screenshots
+
+![alt text](image-1.png)
+
+![alt text](image.png)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
