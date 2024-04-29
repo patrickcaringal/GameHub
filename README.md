@@ -9,6 +9,7 @@ A video game catalog application allowing users to browse video games, categoriz
 - ![React-Query][React-Query-badge]
 - ![Chakra][Chakra-badge]
 - ![CSS3][CSS3-badge]
+- Zustand
 
 ## Features
 
@@ -20,7 +21,11 @@ A video game catalog application allowing users to browse video games, categoriz
 
 ## Screenshots
 
+### Browse game catalog
+
 ![alt text](image-1.png)
+
+### Game details
 
 ![alt text](image.png)
 
