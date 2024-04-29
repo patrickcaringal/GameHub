@@ -1,9 +1,6 @@
 ## About The Project
 
-A video game catalog application allowing users to browse video games, ain access to detailed
-game information, including gameplay videos and images, enhancing your browsing experience.
-Easily sort games by genre or platform using intuitive filters. Quickly find specific video
-games by utilizing the search function.
+A video game catalog application allowing users to browse video games, ain access to detailed game information, including gameplay videos and images, enhancing your browsing experience. Easily sort games by genre or platform using intuitive filters. Quickly find specific video games by utilizing the search function.
 
 ### Built With
 
